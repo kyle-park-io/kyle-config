@@ -1,1 +1,7 @@
 node_modules
+# crypto
+cryptography.sh
+src
+src.tar
+packed.src.tar
+unpacked
